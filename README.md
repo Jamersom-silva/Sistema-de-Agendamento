@@ -454,4 +454,4 @@ Projeto desenvolvido para estudos e evolução prática em:
 
 ## 📄 Licença
 
-Este projeto é destinado a fins educacionais e de desenvolvimento.
+Este projeto é apenas uma demo para mostrar o projeto freelancer que fiz para um cliente da cidade.
