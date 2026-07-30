@@ -1,4 +1,4 @@
-package br.com.dio.barbershopui;
+package br.com.barber.barbershopui;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
